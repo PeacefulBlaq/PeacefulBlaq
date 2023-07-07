@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeacefulBlaq
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me: Twitter Handle - @abidemi_bakre
 
 <!---
