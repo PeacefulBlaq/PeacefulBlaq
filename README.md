@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PeacefulBlaq
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Software Engineering at ALX_Africa
-- 💞️ I’m looking to collaborate on Software Engineering
-- 📫 How to reach me: Twitter Handle - @abidemi_bakre
+- 🌱 I’m currently learning Data Analytics at Google & SimpliLearn
+- 💞️ I’m looking to collaborate on Data Analytics
+- 📫 How to reach me: X (Twitter) Handle - @abidemi_bakre
 
 <!---
 PeacefulBlaq/PeacefulBlaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
