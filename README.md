@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeacefulBlaq
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics at Google & SimpliLearn
+- 🌱 I’m currently learning Data Analytics at AltSchool Africa & Dataquest
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me: X (Twitter) Handle - @abidemi_bakre
 
